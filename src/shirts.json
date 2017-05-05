@@ -1,0 +1,18 @@
+{
+  "shirts": [
+    {
+      "company": "DataDog",
+      "description": "Monitoring that tracks your dynamic infrastructure and applications.",
+      "contributor": "Mason Fox",
+      "steps": [
+        "Sign Up",
+        "Install the Agent",
+        "Create a Dashboard"
+      ],
+      "website": {
+        "link": "https://www.datadoghq.com/",
+        "linkToShirt": "https://www.datadoghq.com/ts/nagios/"
+      }
+    }
+  ]
+}
